@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: 'Alessandra Vidal Meza'
+  favicon: images/favicon.png
+  search: false
+  navbar:
+    pinned: true
+format:
+  html:
+    theme:
+      - styles.scss
+    css: styles.css
+    mainfont: IBM Plex Sans
+    toc: false
+    link-external-newwindow: true
+

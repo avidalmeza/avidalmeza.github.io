@@ -1,0 +1,19 @@
+/* Remove border line between side and main about panel */
+div.quarto-about-trestles .about-contents {
+  border-left: 0px;
+}
+
+/* Set padding for side about panel */
+div.quarto-about-trestles .about-entity {
+  padding-left: 0.75em;
+}
+
+/* Define media query for devices with a minimum width of 992p (desktop view) */
+@media (min-width: 992px){
+  div.quarto-about-trestles .about-entity {
+    /* Set flex container in desktop view */
+    flex: 0 0 35%;
+    /* Remove padding for side about panel in desktop view */
+    padding-left: 0em;
+  }
+}

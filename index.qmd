@@ -1,0 +1,19 @@
+---
+title: 'Alessandra Vidal Meza'
+subtitle: 'She/Her/Ella'
+image: images/headshot.jpg
+about:
+  template: trestles
+  image-shape: round
+page-layout: full
+---
+
+## About
+I am a PhD student at the University of California, Santa Barbara in the [Bren School of Environmental Science & Management](https://bren.ucsb.edu/), with roots in the Peruvian Andes. My research brings remote sensing and machine learning together with traditional ecological knowledge for biodiversity monitoring and management at home and far away. I also work towards expanding pluralism and fostering diversity, equity, inclusion, and belonging in conservation science. Previously, I was a Dangermond Fellow at the National Audubon Society in partnership with Esri, where I made maps to protect birds and the places they need.
+
+## Education
+{{< fa graduation-cap >}} Master's degree, Environmental Data Science
+: University of California, Santa Barbara (2023)
+
+{{< fa graduation-cap >}} Bachelor's degree, Economics, Environmental Policy & Decision Making 
+: University of Puget Sound (2022)
