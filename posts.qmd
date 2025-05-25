@@ -1,0 +1,14 @@
+---
+title: "Blog Posts"
+description: "Lorem ipsum"
+listing:
+  contents: posts
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  max-description-length: 200
+  type: grid
+  grid-item-border: true
+  grid-columns: 3
+title-block-banner: true
+---

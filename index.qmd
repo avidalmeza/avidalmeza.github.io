@@ -1,0 +1,24 @@
+---
+title: "Alessandra Vidal Meza"
+subtitle: "She/Her/Ella"
+image: images/avidalmeza.png
+about:
+  template: trestles
+  image-shape: round
+---
+
+
+## About
+
+I'm an environmental data scientist from Lima, Perú. I use conservation technology (such as acoustic sensors and camera traps), GIS, and machine learning and statistics to turn data into ecological insights about wildlife and other more-than-human relations. Previously, I was a Dangermond Fellow at the National Audubon Society, in partnership with Esri, where I made maps to protect birds and the places they need. When I’m not coding away on my computer, you can find me outside.
+
+
+## Education
+{{< fa graduation-cap >}} PhD, Environmental Science and Management
+: University of California, Santa Barbara &mdash; 2024-Present
+
+{{< fa graduation-cap >}} Master's degree, Environmental Data Science
+: University of California, Santa Barbara &mdash; 2023
+
+{{< fa graduation-cap >}} Bachelor's degree, Economics, Environmental Policy & Decision Making 
+: University of Puget Sound &mdash; 2022
